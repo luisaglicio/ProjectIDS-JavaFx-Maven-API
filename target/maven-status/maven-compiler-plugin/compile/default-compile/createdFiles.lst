@@ -1,0 +1,12 @@
+com\br\meubackend\meubackend\controller\AlunoController.class
+model\dao\DaoFactory.class
+com\br\meubackend\meubackend\MeubackendApplication.class
+db\DbIntegrityException.class
+model\dao\NotasFaltasDao.class
+model\entities\Aluno.class
+db\DbException.class
+model\dao\impl\NotasFaltasDaoJDBC.class
+db\DB.class
+model\dao\AlunoDao.class
+model\dao\impl\AlunoDaoJDBC.class
+model\entities\NotasFaltas.class
